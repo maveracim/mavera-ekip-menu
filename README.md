@@ -11,7 +11,4 @@
 * `.ekip ver @Mavera/ID` belirtilen ekip rolünü kullanıcı üzerinde yoksa verirsiniz. Bu işlem butonlar ile gerçekleştirilmektedir.
 * `.ekip al @Mavera/ID` belirtilen ekip rolünü kullanıcı üzerinde varsa alırsınız. Bu işlem butonlar ile gerçekleştirilmektedir.
 
-# Görseller
-* YAKINDA!
-
 ### NOT: Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
