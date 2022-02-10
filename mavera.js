@@ -1,6 +1,6 @@
 const { Client, MessageAttachment, MessageCollector, MessageEmbed } = require("discord.js")
 const client = new Client()
-const { Bot, Guild, Ekip } = require("./mavera.json")
+const { Bot, Guild, Ekip } = require("./mavera.json") // doldurmak için read.me
 const buttons = require("discord-buttons")
 buttons(client)
 
