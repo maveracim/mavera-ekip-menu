@@ -1,5 +1,4 @@
-# Discord Ekip Menü Bot (15 STAR + 7 FORK)
-# Maalesef yan hesap ve tokenlerle star/fork işlemi uygulandığı için 15 star ve 7 fork yaptım. Eğer token/yan hesap kullanılırsa projeyi paylaşmayacağım.
+# Discord Ekip Menü Bot (BUGUN YARIN ATARIM SIZ STAR + FORKLAYIN DOSTLAR!)
 
 # Bot Kurulum
 * Öncelikle `index.js` dosyamızı açıyoruz ve `reqs` yazan başlangıçtaki doldurulması gereken yerleri doldurunuz.
