@@ -1,0 +1,29 @@
+{
+    "Bot": {
+        "Token": "",
+        "Footer": "Mavera ❤️ Altyapı Hırsızları",
+        "Ready": "Mavera ❤️",
+        "Prefix": "!",
+        "Developer": []
+    },
+    
+    "Guild": {
+        "Tag": "",
+        "Registery": "",
+        "CommandHammer": ""
+    },
+
+    "Ekip": {
+        "Ekip1": "",
+        "Ekip2": "",
+        "Ekip3": "",
+        "Ekip4": "",
+
+        "İsim": {
+            "Ekip1": "",
+            "Ekip2": "",
+            "Ekip3": "",
+            "Ekip4": ""
+        }
+    }
+}
