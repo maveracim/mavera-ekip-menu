@@ -1,5 +1,3 @@
-# Discord Ekip Menü Bot (20 Starda Yeni Altyapı!)
-
 # Bot Kurulum
 * Kurulumlar tamamen `mavera.json` dosyasından gerçekleşmektedir. 
 * `Guild` kategorisinde yazan `CommandHammer` yerine ekip komutunu kullanabilecek rol ID'sini yazacaksınız. 
